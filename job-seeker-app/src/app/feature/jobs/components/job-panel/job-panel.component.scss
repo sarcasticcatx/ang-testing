@@ -1,0 +1,19 @@
+.panel-containers {
+  max-width: 500px;
+  padding: 20px; 
+  border: 2px solid rgb(201, 201, 223);
+  border-radius: 10px;
+  margin: 50px auto; 
+  background-color: rgba(240, 216, 240, 0.267);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+
+
+.panel-containers h3 {
+  text-align: end; 
+  border-bottom: 2px solid #ddd;
+  color: #6654c0a1;
+  padding-bottom: 10px;
+  font-style: italic;
+  font-size: 25px;
+}
