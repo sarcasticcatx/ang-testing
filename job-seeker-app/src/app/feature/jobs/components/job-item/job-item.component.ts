@@ -46,8 +46,8 @@ export class JobItemComponent {
     console.log('id', id);
   }
 
-  navigateToEditForm(jobId: number) {
+  navToEditForm(jobId: number) {
     console.log(jobId)
-    this.router.navigate(['edit-job', jobId]); // Navigate to the edit job route
+    this.router.navigate(['edit-job', jobId]);
   }
 }
